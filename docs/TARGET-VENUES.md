@@ -30,6 +30,17 @@
   предварительными результатами.
 * Поддержка систематических обзоров — можно отдельной работой опубликовать
   результат этапа 1.
+* JSS в последние годы **целенаправленно публикует работы по
+  codeless / low‑code / model‑driven engineering** (источник: фоновая заметка
+  [`CoAuthors.md`](CoAuthors.md); пример — статья J. Grundy 2026 г. о
+  сравнении традиционного и LLM‑основанного low‑code‑программирования). Это
+  означает, что наша тема не «выпадает из скоупа» — наоборот, продолжает
+  активную для журнала линию.
+* Список ключевых JSS‑авторов в смежных темах (Grundy, Holtmann, Ajimati,
+  Paige, Deckers & Lago, Moreno‑Lumbreras) — см.
+  [`PRIOR-ART.md`](PRIOR-ART.md), §3a. Этот список — кандидаты в
+  *Suggested Reviewers* в Editorial Manager и опорные точки раздела
+  Related Work.
 
 ## Запасные Q1‑журналы (Elsevier / Springer / IEEE / ACM)
 

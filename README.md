@@ -18,6 +18,21 @@
 | [`docs/PAPER-OUTLINE.md`](docs/PAPER-OUTLINE.md) | Скелет рукописи под требования JSS |
 | [`docs/CHECKLIST.md`](docs/CHECKLIST.md) | Чек‑лист готовности к подаче |
 
+### Предыстория (фоновые заметки, послужившие источником материала)
+
+Эти файлы — исходные неструктурированные заметки, которые подкармливают
+основные документы выше. Они оставлены в репозитории как первичные источники
+тезисов; полезные выводы из них перенесены и систематизированы в
+PRIOR‑ART, TARGET‑VENUES, PAPER‑OUTLINE и CHECKLIST с явными
+обратными ссылками.
+
+| Заметка | Что использовано в основной документации |
+|---------|------------------------------------------|
+| [`docs/Scopus.md`](docs/Scopus.md) | Тезисы новизны (3 пункта), патенты RU 2650032 C1 / US 11138174 B2, Future Work с LLM‑агентами — перенесены в `PAPER-OUTLINE.md` и `PRIOR-ART.md` §§4a, 5a. |
+| [`docs/CoAuthors.md`](docs/CoAuthors.md) | Список ключевых авторов JSS (Grundy, Holtmann, Ajimati, Paige, Deckers & Lago, Moreno‑Lumbreras) — перенесён в `PRIOR-ART.md` §3a и упомянут в `TARGET-VENUES.md`. |
+| [`docs/Patterns.md`](docs/Patterns.md) | «Bad CaRMa» + современные кейсы (WooCommerce, Kustomer 2023, Stack Overflow refactor: 10 c → 40 мс) — перенесены в `PRIOR-ART.md` §2. |
+| [`docs/Select journal.md`](docs/Select%20journal.md) | Альтернативный «провокационный» title для bake‑off и desk‑rejection prevention checklist — перенесены в `PAPER-OUTLINE.md` и `CHECKLIST.md`. |
+
 ## Источники, послужившие отправной точкой
 
 * Habr, «Предельная унификация», <https://habr.com/ru/articles/982120/>
